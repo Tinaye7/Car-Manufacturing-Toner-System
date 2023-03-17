@@ -1,0 +1,28 @@
+[09-Jun-2022 14:16:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home/hgmadmin/public_html/inventory/php_action/createOrder.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/hgmadmin/public_html/inventory/php_action/createOrder.php on line 42
+[17-Jun-2022 20:06:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home/hgmadmin/public_html/inventory/php_action/createOrder.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/hgmadmin/public_html/inventory/php_action/createOrder.php on line 42
+[17-Jun-2022 20:06:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home/hgmadmin/public_html/inventory/php_action/createOrder.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/hgmadmin/public_html/inventory/php_action/createOrder.php on line 42
+[17-Jun-2022 20:17:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home/hgmadmin/public_html/inventory/php_action/createOrder.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/hgmadmin/public_html/inventory/php_action/createOrder.php on line 42
+[17-Jun-2022 20:23:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home/hgmadmin/public_html/inventory/php_action/createOrder.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/hgmadmin/public_html/inventory/php_action/createOrder.php on line 42
+[23-Jun-2022 06:37:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home/hgmadmin/public_html/inventory/php_action/createOrder.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/hgmadmin/public_html/inventory/php_action/createOrder.php on line 42
+[06-Jul-2022 08:06:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home/hgmadmin/public_html/inventory/php_action/createOrder.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/hgmadmin/public_html/inventory/php_action/createOrder.php on line 42
